@@ -1,4 +1,5 @@
 Flask
+python==3.8.10
 scikit-learn==1.2.1
 pandas
 numpy
