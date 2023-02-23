@@ -1,1 +1,5 @@
-# End_End_ML
+# SOFTWARE AND TOOLS REQUIRED
+
+* Github
+* Heroku
+* VScode
